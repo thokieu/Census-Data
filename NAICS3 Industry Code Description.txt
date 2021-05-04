@@ -1,0 +1,197 @@
+Subsector 111: Crop Production
+
+Subsector 112: Animal Production and Aquaculture
+
+Subsector 113: Forestry and Logging
+
+Subsector 114: Fishing, Hunting and Trapping
+
+Subsector 115: Support Activities for Agriculture and Forestry
+
+Subsector 211: Oil and Gas Extraction
+
+Subsector 212: Mining (except Oil and Gas)
+
+Subsector 213: Support Activities for Mining
+
+Subsector 221: Utilities
+
+Subsector 236: Construction of Buildings
+
+Subsector 237: Heavy and Civil Engineering Construction
+
+Subsector 238: Specialty Trade Contractors
+
+Subsector 311: Food Manufacturing
+
+Subsector 312: Beverage and Tobacco Product Manufacturing
+
+Subsector 313: Textile Mills
+
+Subsector 314: Textile Product Mills
+
+Subsector 315: Apparel Manufacturing
+
+Subsector 316: Leather and Allied Product Manufacturing
+
+Subsector 321: Wood Product Manufacturing
+
+Subsector 322: Paper Manufacturing
+
+Subsector 323: Printing and Related Support Activities
+
+Subsector 324: Petroleum and Coal Products Manufacturing
+
+Subsector 325: Chemical Manufacturing
+
+Subsector 326: Plastics and Rubber Products Manufacturing
+
+Subsector 327: Nonmetallic Mineral Product Manufacturing
+
+Subsector 331: Primary Metal Manufacturing
+
+Subsector 332: Fabricated Metal Product Manufacturing
+
+Subsector 333: Machinery Manufacturing
+
+Subsector 334: Computer and Electronic Product Manufacturing
+
+Subsector 335: Electrical Equipment, Appliance, and Component Manufacturing
+
+Subsector 336: Transportation Equipment Manufacturing
+
+Subsector 337: Furniture and Related Product Manufacturing
+
+Subsector 339: Miscellaneous Manufacturing
+
+Subsector 423: Merchant Wholesalers, Durable Goods
+
+Subsector 424: Merchant Wholesalers, Nondurable Goods
+
+Subsector 425: Wholesale Electronic Markets and Agents and Brokers
+
+Subsector 441: Motor Vehicle and Parts Dealers
+
+Subsector 442: Furniture and Home Furnishings Stores
+
+Subsector 443: Electronics and Appliance Stores
+
+Subsector 444: Building Material and Garden Equipment and Supplies Dealers
+
+Subsector 445: Food and Beverage Stores
+
+Subsector 446: Health and Personal Care Stores
+
+Subsector 447: Gasoline Stations
+
+Subsector 448: Clothing and Clothing Accessories Stores
+
+Subsector 451: Sporting Goods, Hobby, Musical Instrument, and Book Stores
+
+Subsector 452: General Merchandise Stores
+
+Subsector 453: Miscellaneous Store Retailers
+
+Subsector 454: Nonstore Retailers
+
+Subsector 481: Air Transportation
+
+Subsector 482: Rail Transportation
+
+Subsector 483: Water Transportation
+
+Subsector 484: Truck Transportation
+
+Subsector 485: Transit and Ground Passenger Transportation
+
+Subsector 486: Pipeline Transportation
+
+Subsector 487: Scenic and Sightseeing Transportation
+
+Subsector 488: Support Activities for Transportation
+
+Subsector 491: Postal Service
+
+Subsector 492: Couriers and Messengers
+
+Subsector 493: Warehousing and Storage
+
+Subsector 511: Publishing Industries (except Internet)
+
+Subsector 512: Motion Picture and Sound Recording Industries
+
+Subsector 515: Broadcasting (except Internet)
+
+Subsector 517: Telecommunications
+
+Subsector 518: Data Processing, Hosting, and Related Services
+
+Subsector 519: Other Information Services
+
+Subsector 521: Monetary Authorities-Central Bank
+
+Subsector 522: Credit Intermediation and Related Activities
+
+Subsector 523: Securities, Commodity Contracts, and Other Financial Investments and Related Activities
+
+Subsector 524: Insurance Carriers and Related Activities
+
+Subsector 525: Funds, Trusts, and Other Financial Vehicles
+
+Subsector 531: Real Estate
+
+Subsector 532: Rental and Leasing Services
+
+Subsector 533: Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+
+Subsector 541: Professional, Scientific, and Technical Services
+
+Subsector 551: Management of Companies and Enterprises
+
+Subsector 561: Administrative and Support Services
+
+Subsector 562: Waste Management and Remediation Services
+
+Subsector 611: Educational Services
+
+Subsector 621: Ambulatory Health Care Services
+
+Subsector 622: Hospitals
+
+Subsector 623: Nursing and Residential Care Facilities
+
+Subsector 624: Social Assistance
+
+Subsector 711: Performing Arts, Spectator Sports, and Related Industries
+
+Subsector 712: Museums, Historical Sites, and Similar Institutions
+
+Subsector 713: Amusement, Gambling, and Recreation Industries
+
+Subsector 721: Accommodation
+
+Subsector 722: Food Services and Drinking Places
+
+Subsector 811: Repair and Maintenance
+
+Subsector 812: Personal and Laundry Services
+
+Subsector 813: Religious, Grantmaking, Civic, Professional, and Similar Organizations
+
+Subsector 814: Private Households
+
+Subsector 921: Executive, Legislative, and Other General Government Support
+
+Subsector 922: Justice, Public Order, and Safety Activities
+
+Subsector 923: Administration of Human Resource Programs
+
+Subsector 924: Administration of Environmental Quality Programs
+
+Subsector 925: Administration of Housing Programs, Urban Planning, and Community Development
+
+Subsector 926: Administration of Economic Programs
+
+Subsector 927: Space Research and Technology
+
+Subsector 928: National Security and International Affairs
